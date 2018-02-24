@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "snada",
+      "authorEmail": "stefano.nada@gmail.com",
+      "authorUrl": "https://snada.it"
+    }
+  }
+}
