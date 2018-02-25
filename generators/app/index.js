@@ -140,6 +140,8 @@ module.exports = class extends Generator {
       subs
     );
 
+    this.fs.copyTpl(this.templatePath('LICENSE'), this.destinationPath('LICENSE'), subs);
+
     this.fs.copyTpl(
       this.templatePath('README.md'),
       this.destinationPath('README.md'),
