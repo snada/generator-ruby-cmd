@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+require '<%= gemName %>'
+
+# Read lines from both file or STDIN
+# lines = (ARGV[0] ? IO.readlines(ARGV[0]) : ARGF.readlines).map(&:chomp)
+
+puts <%= gemClassName %>::VERSION
