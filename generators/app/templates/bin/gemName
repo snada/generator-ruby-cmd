@@ -5,3 +5,8 @@ require '<%= gemName %>'
 # lines = (ARGV[0] ? IO.readlines(ARGV[0]) : ARGF.readlines).map(&:chomp)
 
 puts <%= gemClassName %>::VERSION
+
+puts "Hey, let us know your name:"
+name = gets.chomp
+
+puts "Hello, #{name}!"

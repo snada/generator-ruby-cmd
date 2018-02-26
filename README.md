@@ -1,4 +1,4 @@
-# generator-ruby-cmd [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-ruby-cmd [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Maintainability](https://api.codeclimate.com/v1/badges/bc5b029b36817abbd0af/maintainability)](https://codeclimate.com/github/snada/generator-ruby-cmd/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/bc5b029b36817abbd0af/test_coverage)](https://codeclimate.com/github/snada/generator-ruby-cmd/test_coverage)
 > Simple command line Ruby program, bundled as a gem with Rrspec and Cucumber/Aruba support
 
 ## Installation
@@ -32,5 +32,3 @@ MIT © [snada](https://snada.it)
 [npm-url]: https://npmjs.org/package/generator-ruby-cmd
 [travis-image]: https://travis-ci.org/snada/generator-ruby-cmd.svg?branch=master
 [travis-url]: https://travis-ci.org/snada/generator-ruby-cmd
-[daviddm-image]: https://david-dm.org/snada/generator-ruby-cmd.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/snada/generator-ruby-cmd
