@@ -3,7 +3,6 @@ node_js:
   - v9
   - v8
   - v6
-  - v4
 env:
   global:
     - CC_TEST_REPORTER_ID=1e7018d9be72dfe6c78b3ab5156e9d664f03e9cd1803d43bd85d0582ac04773e

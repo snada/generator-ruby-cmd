@@ -3,6 +3,8 @@
 
 ## Installation
 
+This project requires node >= 6.
+
 First, install [Yeoman](http://yeoman.io) and generator-ruby-cmd using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
