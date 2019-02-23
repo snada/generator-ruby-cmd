@@ -1,6 +1,6 @@
 {
   "name": "generator-ruby-cmd",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple command line Ruby program, bundled as a gem with Rrspec and Cucumber/Aruba support",
   "homepage": "https://github.com/snada/generator-ruby-cmd",
   "author": {
